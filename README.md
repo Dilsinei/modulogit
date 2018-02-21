@@ -1,4 +1,3 @@
+Treinamento git
 Primeiro sistema no git
-
-
-Alteração no read descrevendo melhor o sistema
+Repositorio no Github
