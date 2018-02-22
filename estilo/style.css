@@ -106,6 +106,34 @@ body {
 	height: 50px;
 	background-color: #347aba;
 }
+.box-body {
+	background-color: #DDD;
+	width: :160px;
+	height: 150px;
+	margin: auto;
+	margin-top: 20px;
+    padding: 20px;
+    font-size: 14px;
+    color: #485053;
+}
+
+.box{
+	background-color: #f7f7f7;
+	box-shadow: 0px 0px 10px #cfcfcf;
+	border-radius: 4px;
+	overflow: hidden;
+	margin-bottom: 25px;
+}
+.time{
+	background-color: #DDD;
+	width: :160px;
+	height: 150px;
+	margin: auto;
+	margin-top: 200px;
+    padding: 200px;
+    font-size: 14px;
+    color: #485053;
+}
 
 @media only screen and (max-width: 1000px){
 	.teste{
